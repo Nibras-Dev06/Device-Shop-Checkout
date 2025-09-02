@@ -402,7 +402,7 @@
       .container{
         width:100%;
         max-width: 380px;
-        min-width:95px;
+        min-width:195px;
         margin-bottom:8px;
       }
      
@@ -455,7 +455,7 @@
         justify-content: space-between;
         width:80%;
         max-width:220px;
-        min-width:95px;
+        min-width:100px;
         height:60px;
         
       }
