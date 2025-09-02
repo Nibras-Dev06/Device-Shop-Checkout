@@ -49,7 +49,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Feedback 
 I will be happy to get your feedback [Here](https://devchallenges.io/profile/9b9f2a2a-f1aa-43fd-ab7b-68c860f8a619)
-That help my improvment!!🙌 📝
+That helps my improvment!!🙌 📝
 
 
 

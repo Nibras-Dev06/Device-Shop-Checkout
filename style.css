@@ -400,10 +400,9 @@
       }
 
       .container{
-       
         width:100%;
         max-width: 380px;
-        min-width:280px;
+        min-width:190px;
         margin-bottom:8px;
       }
      
@@ -456,12 +455,10 @@
         justify-content: space-between;
         width:80%;
         max-width:220px;
-        min-width:145px;
+        min-width:120px;
         height:60px;
         
       }
-      
-     
       }
 
 
